@@ -16,6 +16,3 @@ Screen Captured on Android Emulator.
   </div>
 </div>
 
-</body>
-</html>
-
